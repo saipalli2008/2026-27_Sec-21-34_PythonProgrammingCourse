@@ -1,0 +1,7 @@
+#square of two numbers
+num1=int(input("enter first number:"))  
+num2=int(input("enter second number:"))
+square1=num1**2
+square2=num2**2
+print("square of", num1, "is", square1)
+print("square of", num2, "is", square2)
